@@ -1,4 +1,5 @@
 import React, { Children } from 'react'
+import '../styles/Main.css'
 import Header from '../components/Header'
 import Footer from '../components/Footer'
 

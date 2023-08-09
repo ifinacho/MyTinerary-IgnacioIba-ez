@@ -1,7 +1,11 @@
 import React from 'react'
+import '../styles/Footer.css'
+import Navbar from './Navbar'
 
 export default function Footer() {
   return (
-    <div>Footer</div>
+    <footer>
+      <Navbar />
+    </footer>
   )
 }
