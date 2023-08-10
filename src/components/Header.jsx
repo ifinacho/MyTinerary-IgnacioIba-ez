@@ -5,9 +5,10 @@ import Navbar from './Navbar'
 export default function Header() {
   return (
     <header>
-      <a href="#"><img src="LogoMyTinerary.png" alt="logo-mytinerary" /></a>
+      <a href=""><img className="logo-mytinerary" src="LogoMyTinerary.png" alt="logo-mytinerary" /></a>
       <Navbar />
-      <a href="#"><img className="logo-usuario" src="ImagenLogoUsuario.png" alt="imagen-logo-usuario" /></a>
+      <a href=""><img className="logo-usuario" src="ImagenLogoUsuario.png" alt="imagen-logo-usuario" /></a>
+      
     </header>
   )
 }

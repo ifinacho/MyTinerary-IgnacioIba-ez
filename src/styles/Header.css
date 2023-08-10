@@ -5,9 +5,9 @@ header{
     justify-content: space-between;
     padding: 0.5rem 40px 0;
 }
-header img{
+.logo-mytinerary{
     width: 350px;
 }
 .logo-usuario{
-    max-width: 15%;
+    width: 50px;
 }

@@ -1,0 +1,11 @@
+.welcome{
+    font-family: "Roboto light";
+    color: white;
+    background-image: url(/public/Ciudad-Chicago-Fondo.jpg);
+    background-position: 50% 15%;
+    height: 80vh;
+}
+.slogan{
+    font-style: italic;
+    color: rgb(0, 255, 128);
+}
