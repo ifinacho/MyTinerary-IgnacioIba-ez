@@ -1,6 +1,8 @@
 .welcome{
     font-family: "Roboto light";
     color: white;
+    text-align: center;
+    font-size: larger;
     background-image: url(/public/Ciudad-Chicago-Fondo.jpg);
     background-position: 50% 15%;
     height: 80vh;
