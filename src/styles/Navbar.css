@@ -6,11 +6,10 @@ nav{
 }
 nav>a{
     margin: 0 10px;
-    padding: 2px 3px;
-    color: black;
+    padding: 7px 8px;
+    color: rgb(0, 0, 0);
     font-family: "Roboto Medium";
     background-color: rgb(192, 201, 255);
     text-decoration: none;
-    border: 1px solid black;
     border-radius: 5px;
 }
